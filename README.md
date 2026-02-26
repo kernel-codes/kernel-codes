@@ -251,7 +251,7 @@ A Kernel Code atua no desenvolvimento Fullstack voltado a sistemas corporativos 
 
   ### 📈 Gráfico de Atividade
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kernel-codes&radius=16&theme=radical&area=true&hide_border=true&bg_color=0D1117&color=00FFFF&line=00FFFF&point=ffffff&title_color=00FFFF" height="250" alt="Gráfico de atividade"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kernelcodes.io&radius=16&theme=radical&area=true&hide_border=true&bg_color=0D1117&color=00FFFF&line=00FFFF&point=ffffff&title_color=00FFFF" height="250" alt="Gráfico de atividade"/>
   
 </div>
 
@@ -279,7 +279,7 @@ A Kernel Code atua no desenvolvimento Fullstack voltado a sistemas corporativos 
 <td align="center" width="33%">
   <h4>💼 LinkedIn</h4>
   <p>
-    <a href="https://www.linkedin.com/in/kernel-codes/" target="_blank">
+    <a href="https://www.linkedin.com/in/kernelcodes.io/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
   </p>
@@ -302,7 +302,7 @@ A Kernel Code atua no desenvolvimento Fullstack voltado a sistemas corporativos 
   <td align="center" width="33%">
   <h4>💬 Instagram</h4>
   <p>
-    <a href="https://instagram.com/kerner.codes" target="_blank">
+    <a href="https://instagram.com/kernelcodes.io" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
   </p>
